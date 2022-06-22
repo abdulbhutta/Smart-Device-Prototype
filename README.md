@@ -8,5 +8,5 @@
   3. DHT11 Sensor
   4. Arduino IDE Software
  
- Presentation Link: https://drive.google.com/file/d/1uIZl0iJo7DbNLJ68ZzOf2OgcoTTTEz8w/view?usp=sharing
+
  
